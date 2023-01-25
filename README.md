@@ -13,11 +13,11 @@ One key feature of the KCC program is its ability to provide farmers with timely
 To study this further, we have created a database of more than 30 million records using communication received by Kisan [Call Centers in India](https://dackkms.gov.in/account/login.aspx) between 2004 and 2022 (Key summary below).We propose to analyze farmers’ interactions with digital or telephone based advisory services to identify spatial and temporal information needs that farmers have. We want to build detailed spatio-temporal models to explain the need for information, and how these are related to risk and resilience. The overall objective will be to help improve farmer advisory services based on a combination of technologies, including climate information, crop modeling, remote sensing, location specific CGIAR and NARS research. To the best of our knowledge, such comprehensive dataset is not available for any other region or country. We consider this case study as a proof of concept to establish the concept and scale it up in other parts of the world where similar dataset might be available.      
 
 Key summary of the database   
-i.More than 30 million phone records from 32 States, 670 districts, 6300 Blocks. Geographic distribution is shown in Figure 1 below.      
+* More than 30 million phone records from 32 States, 670 districts, 6300 Blocks. Geographic distribution is shown in Figure 1 below.      
 
-ii.Questions are mainly asked on agriculture (75%) followed by horticulture (22%), livestock (1%) and fisheries (< 1%) sectors (Figure 2).       
+* Questions are mainly asked on agriculture (75%) followed by horticulture (22%), livestock (1%) and fisheries (< 1%) sectors (Figure 2).       
 
-iii.The calls are somewhat uniformly distributed across the months (Figure 3), but the type of questions vary significantly with districts and season.    
+* The calls are somewhat uniformly distributed across the months (Figure 3), but the type of questions vary significantly with districts and season.    
 
 ![Figure:1 Geographic distribution of sub-districts that are part of the program](./figures/fig_1.png)    
 
@@ -29,7 +29,16 @@ iii.The calls are somewhat uniformly distributed across the months (Figure 3), b
 ### Status
 * Created the most recent version of the complete dataset, spanning between 2004 and 2022. All analysis output will be available in https://github.com/digitalagadvisory/india_kisan_call_center
 
-### References
+
+## Supported by
+
+![](./figures/DI_logo.png)     
+
+
+
+
+### References    
+
 * "The Role of Extension in Agricultural and Rural Development." (n.d.). FAO. Retrieved from http://www.fao.org/extension/the-role-of-extension-in-agricultural-and-rural-development/en/
 
 * "Farmer Field Schools." (n.d.). FAO. Retrieved from http://www.fao.org/farmer-field-schools/en/
@@ -89,4 +98,3 @@ iii.The calls are somewhat uniformly distributed across the months (Figure 3), b
 * "The Role of Information and Communication Technologies in Agricultural Extension: A Case Study of the Kisan Call Center Program in India" by D. K. Sharma and A. K. Singh, published in the Indian Journal of Agricultural Economics (2010)
 
 * "Evaluating the Sustainability of the Kisan Call Center Program in India" by V. R. Patel and A. K. Gupta, published in the Journal of Agricultural Extension (2009)
-
